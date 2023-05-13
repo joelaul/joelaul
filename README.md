@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ## 💬 Don't be a stranger!
 
-👀 I'm seeking opportunities in tech, media, and their intersection. I'm always in search of unlikely connections and ways of turning them into solutions. 
+👀 I'm seeking opportunities in tech, media, and their intersection. I'm always in search of elusive connections and ways of converting them to solutions. 
 
 🗣️ If that's a good fit for your team, let's [talk before the robots take over!](http://joelaul.dev)
