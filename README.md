@@ -1,4 +1,4 @@
-## 👋 Corporate waving hand!
+## 👋 Corporate friendly hand!
 
 <!--
 **joelaul/joelaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
