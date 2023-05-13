@@ -1,6 +1,4 @@
-### Hi
-
-You should be following me [here](http://www.instagram.com/joelaul).
+## 👋 Corporate waving hand!
 
 <!--
 **joelaul/joelaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍💻 I'm a [guitarist](http://www.instagram.com/joelaul) and [recording artist](https://open.spotify.com/artist/6o2NWnXwAdnP9xxSCBHKcY?si=3ir4-yNlQumzG5vLZlSD2A) turned fullstack developer striving for a more personal, creative web.
+
+👀 Seeking opportunities in tech, media, and their intersection.
+
+🕳️ Current rabbit holes: AI integration and UX design.
