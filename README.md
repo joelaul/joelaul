@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎸👨‍💻 I'm a [guitarist](http://www.instagram.com/joelaul) and [recording artist](https://open.spotify.com/artist/6o2NWnXwAdnP9xxSCBHKcY?si=3ir4-yNlQumzG5vLZlSD2A) turned fullstack developer from Philadelphia, PA. I like building, provoking, and making people think.
+🎸👨‍💻 I'm a [guitarist](http://www.instagram.com/joelaul) and [recording artist](https://open.spotify.com/artist/6o2NWnXwAdnP9xxSCBHKcY?si=3ir4-yNlQumzG5vLZlSD2A) turned fullstack developer from Philadelphia, PA. I like building and provoking people's curiosity.
 
 🕳️ Current rabbit holes: Generative AI and UX design.
 
