@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 🎸👨‍💻 I'm a [guitarist](http://www.instagram.com/joelaul) and [recording artist](https://open.spotify.com/artist/6o2NWnXwAdnP9xxSCBHKcY?si=3ir4-yNlQumzG5vLZlSD2A) turned fullstack developer from Philadelphia, PA. I like building things and awakening people's curiosity.
 
-🕳️ Current rabbit holes: Generative AI and UX design.
-
-🧠 Learning 
+🐇🕳️ Current rabbit holes: Generative AI and UX design.
 
 ## 💬 Don't be a stranger!
 
 👀 I'm seeking opportunities in tech, media, and their intersection. I'm always in search of unlikely connections and ways of turning them into solutions. 
 
-🗣️ If that's a good for your team, let's [get in touch!](http://joelaul.dev)
+🗣️ If that's a good for your team, let's [hang!](http://joelaul.dev)
