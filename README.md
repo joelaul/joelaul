@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 👀 I'm seeking opportunities in tech, media, and their intersection. I'm always in search of unlikely connections and ways of turning them into solutions. 
 
-🗣️ If that's a good for your team, let's [hang!](http://joelaul.dev)
+🗣️ If that's a good fit for your team, let's [hang!](http://joelaul.dev)
