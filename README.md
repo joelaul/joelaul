@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ## 💬 Don't be a stranger!
 
-👀🧪 I'm looking for full-time remote opportunities. My goal is to bring care and creativity at scale throughout the development lifecycle.
+👀🧪 I'm looking for full-time remote opportunities. My goal is to bring care and creativity at scale to each stage of the project lifecycle.
 
 🗣️🤖 If that sounds like a good fit for your team, let's [talk inside so the robots don't hear!](http://joelaul.dev)
