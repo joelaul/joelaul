@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ## 💬 Don't be a stranger!
 
-👀🧪 I'm looking for full-time opportunities in web development. My goal is to bring care and creativity to each stage of the project lifecycle.
+👀🧪 I'm looking for full-time remote opportunities. My goal is to bring care and creativity to each stage of the project lifecycle.
 
 🗣️ If that sounds like a good fit for your team, let's [talk inside so the robots don't hear!](http://joelaul.dev)
