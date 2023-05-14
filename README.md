@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ## 💬 Don't be a stranger!
 
-👀 I'm seeking opportunities in tech, media, and their intersection. I'm always searching for new connections to turn into solutions. 
+👀🧪 I'm looking for full-time opportunities in web development. My goal is to bring care and creativity to each stage of the project lifecycle.
 
 🗣️ If that sounds like a good fit for your team, let's [talk before the robots take over!](http://joelaul.dev)
