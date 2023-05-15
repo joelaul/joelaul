@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🕳️🐇 Current rabbit holes: Generative AI and UX design.
 
-## 💬 Don't be a stranger!
+## 💬 Open to work!
 
 👀🧪 I'm looking for full-time remote opportunities. My goal is to bring care and creativity to impactful projects at scale.
 
