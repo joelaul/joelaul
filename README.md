@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 🕳️🐇 Current rabbit holes: Generative AI and UX design.
 
-## 💬 Open to work
+## 💬 Open to work!
 
 👀🧪 I'm looking for remote opportunities. My goal is to bring care and creativity to impactful projects at scale.
 
-🗣️🤖 If that sounds like a good fit for your team, let's [get in touch!](http://joelaul.dev)
+🗣️🤖 If that sounds like a good fit for your team, let's [get in touch!](mailto:laulettaj@gmail.com)
